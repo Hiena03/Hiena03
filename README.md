@@ -1,4 +1,3 @@
-## Hi there 👋
 # Maykon Lucas de Sousa Carneiro 
 <!-- <div align="center">
   <a href="https://github.com/Hiena03">
