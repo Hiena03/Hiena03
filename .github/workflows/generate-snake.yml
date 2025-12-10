@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda diariamente à meia-noite
+  workflow_dispatch:     # Permite rodar manualmente
+  push:
+    branches: ["main"] 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Hiena03  # Seu username do GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to GitHub Pages (branch output)
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output  # Cria uma branch 'output' para os SVGs
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
