@@ -9,7 +9,6 @@
 </div>
 
 - **Microsoft Ecosystem:** Dataverse | Dynamics 365 (Sales, Service) | Power Platform | Power Automate | Power BI | Power Fx
-<!-- Microsoft Ecosystem -->
 <div align="left">
   <img src="https://imgs.search.brave.com/Kykp5V16MzvmUGC-6K9VPTOE0bicPbsr1_0n9AnqaIs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MjA2NzM1Y2Q3Yjkx/YjAwMDQxMjI2MjQu/cG5n" height="30" alt="dataverse" />
   <img width="12" />
@@ -18,25 +17,20 @@
   <img src="https://imgs.search.brave.com/GxCsudHGVoqHeWOC4uRRdxhxWgm-Xd3W7PxXBtev3kE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ28ub3JnL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA1/L01pY3Jvc29mdC1Q/b3dlci1QbGF0Zm9y/bS1JY29uLTIwMjAu/cG5n" height="30" alt="powerplatform" />
   <img width="12" />
   <img src="https://imgs.search.brave.com/wTbUPID3uDJ7YVXrhd-_bOoLMfxTm0UXPyA-6elNGIo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ28ub3JnL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA1/L01pY3Jvc29mdC1Q/b3dlci1BdXRvbWF0/ZS1JY29uLTIwMjAu/cG5n" height="30" alt="powerautomate" />
-  <!-- Nova: Adicione ícone para Power BI (ex: de devicons ou simpleicons.org/power-bi) -->
-  <img src="https://imgs.search.brave.com/jN1hO2Xq_bk8ytZSeA9NAurWRxd3f6FTMBiRpAUptZs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lYmFj/b25saW5lLmNvbS5i/ci9pbWFnZXMvdGls/ZDMyMzItMzEzMy00/NDMxLWE1NjEtMzY2/NTM5MzgzNjM5X19w/b3dlci1iaS1tb2Jp/bGUtbG9nby5wbmc" height="30" alt="powerbi" /> <!-- Exemplo de ícone simples -->
+  <img src="https://imgs.search.brave.com/jN1hO2Xq_bk8ytZSeA9NAurWRxd3f6FTMBiRpAUptZs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lYmFj/b25saW5lLmNvbS5i/ci9pbWFnZXMvdGls/ZDMyMzItMzEzMy00/NDMxLWE1NjEtMzY2/NTM5MzgzNjM5X19w/b3dlci1iaS1tb2Jp/bGUtbG9nby5wbmc" height="30" alt="powerbi" />
 </div>
 
 - **Linguagens de Programação:** C# | JavaScript | TypeScript | FetchXML
-<!-- Linguagens de Programação -->
 <div align="left" style="margin-top: 8px;">
-  <!-- Nova: Adicione ícone para C# (devicons: csharp-original.svg) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30" alt="csharp" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="javascript" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-  <!-- Nova: FetchXML não tem ícone padrão; use XML ou texto. Exemplo placeholder com ícone genérico -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" height="30" alt="fetchxml" />
 </div>
 
 - **Bancos de Dados & Ferramentas:** MongoDB | SQL Server | **APIs REST** | Git/GitHub
-<!-- Bancos de Dados & Ferramentas -->
 <div align="left" style="margin-top: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb" />
   <img width="12" />
@@ -48,7 +42,6 @@
 </div> 
 
 - **Web & Frontend:** HTML5 | CSS3
-<!-- Web & Frontend (Mantido, mas atualizado com níveis implícitos) -->
 <div align="left" style="margin-top: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="html5" />
   <img width="12" />
@@ -79,16 +72,13 @@
 <h3>🏅 Certifications</h3>
 
 <div align="left">
-  <!-- Placeholder 1: Power Platform Fundamentals (PL-900) -->
   <a href="https://www.credly.com/badges/SEU-ID-PL900" target="_blank" rel="noopener noreferrer">
     <img src="assets/badges/pl-900.png" height="120" alt="Microsoft Certified: Power Platform Fundamentals (PL-900)" />
   </a>
   <img width="8" />
-  <!-- Placeholder 2: Dynamics 365 Fundamentals (MB-910) -->
   <a href="https://www.credly.com/badges/SEU-ID-MB910" target="_blank" rel="noopener noreferrer">
     <img src="assets/badges/mb-910.png" height="120" alt="Microsoft Certified: Dynamics 365 Fundamentals (MB-910)" />
   </a>
-  <!-- Baixe ícones oficiais da Microsoft e adicione mais se obtiver outras certs -->
 </div>
 
 <b>🐍 GitHub Contribution Snake</b>
