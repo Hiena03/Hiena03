@@ -91,7 +91,6 @@
   <!-- Baixe ícones oficiais da Microsoft e adicione mais se obtiver outras certs -->
 </div>
 
-</div>
 <b>🐍 GitHub Contribution Snake</b>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiena03/Hiena03/output/github-contribution-grid-snake-dark.svg">
